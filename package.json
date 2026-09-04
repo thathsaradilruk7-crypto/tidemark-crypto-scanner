@@ -1,0 +1,9 @@
+{
+  "name": "tidemark-crypto-scanner",
+  "version": "1.0.0",
+  "description": "A free, open market crypto signal scanner with live prices and transparent multi-signal logic",
+  "main": "index.html",
+  "keywords": ["crypto", "trading", "signals", "scanner"],
+  "author": "Tidemark Contributors",
+  "license": "MIT"
+}
